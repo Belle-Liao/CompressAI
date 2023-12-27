@@ -14,4 +14,4 @@ This code corresponds to the **compression** phase of the project.
 
 ## Environment
 
-Please run `CompressAI_Models_Comparison_Demo_ipynb` at **Google Colab**. The dataset are put in the file `formal`.
+Please run `CompressAI_Models_Comparison_Demo_ipynb.ipynb` at **Google Colab**. The dataset are put in the file `formal`.
